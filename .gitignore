@@ -1,0 +1,8 @@
+# Ignorar o arquivo de ambiente
+.env
+
+# Ignorar as pastas específicas do ambiente virtual
+Weather/Include/
+Weather/Lib/
+Weather/Scripts/
+pyvenv.cfg
